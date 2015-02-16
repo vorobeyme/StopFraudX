@@ -1,0 +1,2117 @@
+2015-02-16 00:43:59 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 00:43:58 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '8497'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/project/api/web/'
+    'SCRIPT_NAME' => '/project/api/web/index.php'
+    'PHP_SELF' => '/project/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424036638.976
+    'REQUEST_TIME' => 1424036638
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 00:56:08 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 00:56:08 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '8765'
+    'REDIRECT_URL' => '/project/api/web/v1/country'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/project/api/web/v1/country'
+    'SCRIPT_NAME' => '/project/api/web/index.php'
+    'PHP_SELF' => '/project/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424037368.652
+    'REQUEST_TIME' => 1424037368
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 01:21:17 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 01:21:17 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '9519'
+    'REDIRECT_URL' => '/project/api/web/v1/point'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/project/api/web/v1/point'
+    'SCRIPT_NAME' => '/project/api/web/index.php'
+    'PHP_SELF' => '/project/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424038877.544
+    'REQUEST_TIME' => 1424038877
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 01:21:19 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "v1/point/index".' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('v1/point/index', Array)
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#2 {main}
+2015-02-16 01:21:19 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '9519'
+    'REDIRECT_URL' => '/project/api/web/v1/points'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/project/api/web/v1/points'
+    'SCRIPT_NAME' => '/project/api/web/index.php'
+    'PHP_SELF' => '/project/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424038879.842
+    'REQUEST_TIME' => 1424038879
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 02:31:50 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 02:31:49 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12397'
+    'REDIRECT_URL' => '/api/web/v1/countries/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/v1/countries/'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424043109.965
+    'REQUEST_TIME' => 1424043109
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 02:31:58 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 02:31:58 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12397'
+    'REDIRECT_URL' => '/api/web/v1/countries/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/v1/countries/'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424043118.362
+    'REQUEST_TIME' => 1424043118
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 02:32:05 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 02:32:05 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12397'
+    'REDIRECT_URL' => '/api/web/v1/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/v1/'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424043125.298
+    'REQUEST_TIME' => 1424043125
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 02:32:08 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 02:32:08 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12397'
+    'REDIRECT_URL' => '/api/web/v1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/v1'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424043128.079
+    'REQUEST_TIME' => 1424043128
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 02:34:11 [127.0.0.1][-][-][error][yii\base\InvalidConfigException] exception 'yii\base\InvalidConfigException' with message 'The "modelClass" property must be set.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\rest\ActiveController.php:63
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Object.php(107): yii\rest\ActiveController->init()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Controller.php(81): yii\base\Object->__construct(Array)
+#2 [internal function]: yii\base\Controller->__construct('country', Object(api\modules\v1\Module), Array)
+#3 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\di\Container.php(362): ReflectionClass->newInstanceArgs(Array)
+#4 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\di\Container.php(147): yii\di\Container->build('api\\modules\\v1\\...', Array, Array)
+#5 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\BaseYii.php(340): yii\di\Container->get('api\\modules\\v1\\...', Array)
+#6 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Module.php(568): yii\BaseYii::createObject('api\\modules\\v1\\...', Array)
+#7 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Module.php(521): yii\base\Module->createControllerByID('country')
+#8 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Module.php(513): yii\base\Module->createController('country/index')
+#9 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Module.php(449): yii\base\Module->createController('v1/country/inde...')
+#10 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('v1/country/inde...', Array)
+#11 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#12 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#13 {main}
+2015-02-16 02:34:11 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12450'
+    'REDIRECT_URL' => '/api/web/v1/countries'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/v1/countries'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424043251.663
+    'REQUEST_TIME' => 1424043251
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 02:55:41 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 02:55:41 [127.0.0.1][-][-][info][application] $_GET = [
+    'fields' => 'code,name'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12591'
+    'REDIRECT_QUERY_STRING' => 'fields=code,name'
+    'REDIRECT_URL' => '/api/web/v1/countries'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'fields=code,name'
+    'REQUEST_URI' => '/api/web/v1/countries?fields=code,name'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424044541.413
+    'REQUEST_TIME' => 1424044541
+    'argv' => [
+        0 => 'fields=code,name'
+    ]
+    'argc' => 1
+]
+2015-02-16 02:55:45 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 02:55:45 [127.0.0.1][-][-][info][application] $_GET = [
+    'fields' => 'code,name'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12591'
+    'REDIRECT_QUERY_STRING' => 'fields=code,name'
+    'REDIRECT_URL' => '/api/web/v1/c'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'fields=code,name'
+    'REQUEST_URI' => '/api/web/v1/c?fields=code,name'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424044545.325
+    'REQUEST_TIME' => 1424044545
+    'argv' => [
+        0 => 'fields=code,name'
+    ]
+    'argc' => 1
+]
+2015-02-16 02:55:47 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 02:55:47 [127.0.0.1][-][-][info][application] $_GET = [
+    'fields' => 'code,name'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12591'
+    'REDIRECT_QUERY_STRING' => 'fields=code,name'
+    'REDIRECT_URL' => '/api/web/v1/c'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'fields=code,name'
+    'REQUEST_URI' => '/api/web/v1/c?fields=code,name'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424044547.195
+    'REQUEST_TIME' => 1424044547
+    'argv' => [
+        0 => 'fields=code,name'
+    ]
+    'argc' => 1
+]
+2015-02-16 02:56:20 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 02:56:20 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12603'
+    'REDIRECT_URL' => '/api/web/c'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/c'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424044580.288
+    'REQUEST_TIME' => 1424044580
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 02:59:35 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 02:59:35 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12612'
+    'REDIRECT_URL' => '/api/web/api/v2/countries'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/api/v2/countries'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424044775.247
+    'REQUEST_TIME' => 1424044775
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 02:59:37 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 02:59:37 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12612'
+    'REDIRECT_URL' => '/api/web/api/v2/country'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/api/v2/country'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424044777.954
+    'REQUEST_TIME' => 1424044777
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 02:59:53 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 02:59:53 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12615'
+    'REDIRECT_URL' => '/api/web/v1/countries'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/v1/countries'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424044793.501
+    'REQUEST_TIME' => 1424044793
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:07:59 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:07:59 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12684'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/index.php/v1/country'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PATH_INFO' => '/v1/country'
+    'PATH_TRANSLATED' => 'D:\\Openserver\\domains\\testspace\\yii2-api\\project\\v1\\country'
+    'PHP_SELF' => '/api/web/index.php/v1/country'
+    'REQUEST_TIME_FLOAT' => 1424045279.48
+    'REQUEST_TIME' => 1424045279
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:08:05 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:08:05 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12684'
+    'REDIRECT_URL' => '/api/web/v1/country'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/v1/country'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424045285.123
+    'REQUEST_TIME' => 1424045285
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:08:08 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:08:08 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/web/index.php'
+    'REMOTE_PORT' => '12684'
+    'REDIRECT_URL' => '/api/web/v1/country'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/v1/country'
+    'SCRIPT_NAME' => '/api/web/index.php'
+    'PHP_SELF' => '/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1424045288.83
+    'REQUEST_TIME' => 1424045288
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:31:47 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:31:46 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13604'
+    'REDIRECT_URL' => '/api/v1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424046706.982
+    'REQUEST_TIME' => 1424046706
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:32:37 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:32:37 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13607'
+    'REDIRECT_URL' => '/api/v1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424046757.159
+    'REQUEST_TIME' => 1424046757
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:32:38 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:32:38 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13607'
+    'REDIRECT_URL' => '/api/v1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424046758.788
+    'REQUEST_TIME' => 1424046758
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:32:40 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:32:40 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13607'
+    'REDIRECT_URL' => '/api/v1/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424046760.377
+    'REQUEST_TIME' => 1424046760
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:32:54 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:32:54 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13611'
+    'REDIRECT_URL' => '/api/v1/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424046774.596
+    'REQUEST_TIME' => 1424046774
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:32:57 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:32:57 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13611'
+    'REDIRECT_URL' => '/api/v1/index'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/index'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424046777.774
+    'REQUEST_TIME' => 1424046777
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:33:02 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:33:02 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13611'
+    'REDIRECT_URL' => '/api/v1/indexes'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/indexes'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424046782.036
+    'REQUEST_TIME' => 1424046782
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:33:04 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:33:04 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13611'
+    'REDIRECT_URL' => '/api/v1/index'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/index'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424046784.081
+    'REQUEST_TIME' => 1424046784
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:33:12 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:33:12 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13611'
+    'REDIRECT_URL' => '/api/v1/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/users'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424046792.185
+    'REQUEST_TIME' => 1424046792
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:33:19 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:33:19 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13611'
+    'REDIRECT_URL' => '/api/v1/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424046799.887
+    'REQUEST_TIME' => 1424046799
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:35:38 [127.0.0.1][-][-][error][ReflectionException] exception 'ReflectionException' with message 'Class api\modules\v1\Module does not exist' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\di\Container.php:411
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\di\Container.php(411): ReflectionClass->__construct('api\\modules\\v1\\...')
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\di\Container.php(354): yii\di\Container->getDependencies('api\\modules\\v1\\...')
+#2 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\di\Container.php(147): yii\di\Container->build('api\\modules\\v1\\...', Array, Array)
+#3 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\BaseYii.php(344): yii\di\Container->get('api\\modules\\v1\\...', Array, Array)
+#4 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Module.php(354): yii\BaseYii::createObject(Array, Array)
+#5 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Module.php(511): yii\base\Module->getModule('v1')
+#6 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Module.php(449): yii\base\Module->createController('v1/country/inde...')
+#7 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('v1/country/inde...', Array)
+#8 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#10 {main}
+2015-02-16 03:35:38 [127.0.0.1][-][-][info][application] $_GET = [
+    'fields' => 'code,population'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13673'
+    'REDIRECT_QUERY_STRING' => 'fields=code,population'
+    'REDIRECT_URL' => '/api/v1/countries'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'fields=code,population'
+    'REQUEST_URI' => '/api/v1/countries?fields=code,population'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424046938.251
+    'REQUEST_TIME' => 1424046938
+    'argv' => [
+        0 => 'fields=code,population'
+    ]
+    'argc' => 1
+]
+2015-02-16 03:39:47 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-16 03:39:47 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13690'
+    'REDIRECT_URL' => '/api/v1/countries/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/countries/'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424047187.754
+    'REQUEST_TIME' => 1424047187
+    'argv' => []
+    'argc' => 0
+]
+2015-02-16 03:39:56 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Object not found: Brazil' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\rest\Action.php:101
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\rest\ViewAction.php(27): yii\rest\Action->findModel('Brazil')
+#1 [internal function]: yii\rest\ViewAction->run('Brazil')
+#2 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Action.php(92): call_user_func_array(Array, Array)
+#3 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\Action->runWithParams(Array)
+#4 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view', Array)
+#5 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('v1/country/view', Array)
+#6 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#8 {main}
+2015-02-16 03:39:56 [127.0.0.1][-][-][info][application] $_GET = [
+    'id' => 'Brazil'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '13690'
+    'REDIRECT_URL' => '/api/v1/countries/Brazil'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/countries/Brazil'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424047196.786
+    'REQUEST_TIME' => 1424047196
+    'argv' => []
+    'argc' => 0
+]
+2015-02-17 02:07:22 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-17 02:07:22 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '5755'
+    'REDIRECT_URL' => '/api/v1/countries/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/countries/'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424128042.78
+    'REQUEST_TIME' => 1424128042
+    'argv' => []
+    'argc' => 0
+]
+2015-02-17 02:07:32 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-17 02:07:32 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '5755'
+    'REDIRECT_URL' => '/api/v1/countries'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/countries'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424128052.239
+    'REQUEST_TIME' => 1424128052
+    'argv' => []
+    'argc' => 0
+]
+2015-02-17 02:07:41 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "v1/point/index".' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('v1/point/index', Array)
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#2 {main}
+2015-02-17 02:07:41 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '5755'
+    'REDIRECT_URL' => '/api/v1/points'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/points'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424128061.355
+    'REQUEST_TIME' => 1424128061
+    'argv' => []
+    'argc' => 0
+]
+2015-02-17 02:16:49 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Class 'api\modules\v1\models\Country' not found' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\rest\IndexAction.php:61
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2015-02-17 02:16:49 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '5977'
+    'REDIRECT_URL' => '/api/v1/points'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/points'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424128608.939
+    'REQUEST_TIME' => 1424128608
+    'argv' => []
+    'argc' => 0
+]
+2015-02-17 02:20:54 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-17 02:20:54 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'CONTENT_TYPE' => 'application/json'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '6035'
+    'REDIRECT_URL' => '/api/web/v1/countries'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/v1/countries'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424128854.594
+    'REQUEST_TIME' => 1424128854
+    'argv' => []
+    'argc' => 0
+]
+2015-02-17 02:21:01 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Request.php:187
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#3 {main}
+2015-02-17 02:21:01 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'CONTENT_TYPE' => 'application/json'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '6035'
+    'REDIRECT_URL' => '/api/web/v1/points'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/web/v1/points'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424128861.81
+    'REQUEST_TIME' => 1424128861
+    'argv' => []
+    'argc' => 0
+]
+2015-02-17 02:22:28 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Object not found: 2' in D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\rest\Action.php:101
+Stack trace:
+#0 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\rest\ViewAction.php(27): yii\rest\Action->findModel('2')
+#1 [internal function]: yii\rest\ViewAction->run('2')
+#2 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Action.php(92): call_user_func_array(Array, Array)
+#3 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\Action->runWithParams(Array)
+#4 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view', Array)
+#5 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('v1/point/view', Array)
+#6 D:\Openserver\domains\testspace\yii2-api\project\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 D:\Openserver\domains\testspace\yii2-api\project\api\index.php(18): yii\base\Application->run()
+#8 {main}
+2015-02-17 02:22:28 [127.0.0.1][-][-][info][application] $_GET = [
+    'id' => '2'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => 'fu3a2n8a7g20kc8k9vep0237l0'
+    '_csrf' => 'd032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"3sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'api.dev:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36'
+    'HTTP_DNT' => '1'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2'
+    'HTTP_COOKIE' => 'PHPSESSID=fu3a2n8a7g20kc8k9vep0237l0; _csrf=d032c86034040e68fa5200782ee99d71d8cbbc9454679ca5dd4cbdc122a321aaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223sQaZHLpXWJbFkl3NjFEl_3-ZvQnrNXG%22%3B%7D'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'api.dev'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '81'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Openserver/domains/testspace/yii2-api/project'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Openserver/domains/testspace/yii2-api/project/api/index.php'
+    'REMOTE_PORT' => '6087'
+    'REDIRECT_URL' => '/api/v1/points/2'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/v1/points/2'
+    'SCRIPT_NAME' => '/api/index.php'
+    'PHP_SELF' => '/api/index.php'
+    'REQUEST_TIME_FLOAT' => 1424128948.312
+    'REQUEST_TIME' => 1424128948
+    'argv' => []
+    'argc' => 0
+]
